@@ -1249,7 +1249,7 @@ function InitMain()
 	
 	-- Properties
 	
-	Bullshit20.Name = "Bullshit 3.0"
+	Bullshit20.Name = "MODesp"
 	Bullshit20.Parent = CoreGui
 	Bullshit20.ResetOnSpawn = false
 	
